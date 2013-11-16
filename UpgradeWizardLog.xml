@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\ClassTimcoReports.vbproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\app.config" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\My Project\Resources.resx" />
+  <event action="Analyze" type="Success" name="PODetail.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\PODetail.resx" />
+  <event action="Analyze" type="Success" name="PODetailDropShip.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\PODetailDropShip.resx" />
+  <event action="Analyze" type="Success" name="PurchaseOrder.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\PurchaseOrder.resx" />
+  <event action="Analyze" type="Success" name="ClassTimcoReports" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\ClassTimcoReports.vbproj" />
+  <event action="Analyze" type="Success" name="ClassTimcoReports" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports.sln" />
+  <event action="Backup" type="Success" name="ClassTimcoReports" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\ClassTimcoReports.vbproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\ClassTimcoReports.vbproj" />
+  <event action="Upgrade" type="Success" name="PODetail.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\PODetail.resx" />
+  <event action="Upgrade" type="Success" name="PODetailDropShip.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\PODetailDropShip.resx" />
+  <event action="Upgrade" type="Success" name="PurchaseOrder.resx" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\PurchaseOrder.resx" />
+  <event action="Upgrade" type="Success" name="ClassTimcoReports" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports\ClassTimcoReports.vbproj" />
+  <event action="Upgrade" type="Success" name="ClassTimcoReports" path="C:\Users\jrp4\Documents\Visual Studio 2012\Projects\ClassTimcoReports\ClassTimcoReports.sln" />
+</log>
